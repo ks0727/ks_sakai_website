@@ -147,7 +147,7 @@ export default function Home() {
         </section>
 
       {/* About セクション */}
-      <section id="about" className="w-[60%] mx-auto px-4 py-20">
+      <section id="about" className="w-[60%] mx-auto px-4 py-20 pt-32">
         <h3 className="text-2xl font-bold mb-8 text-center">About Me</h3>
 
         <div className="flex flex-col md:flex-row items-center md:items-start space-y-8 md:space-y-0 md:space-x-12 text-left">
@@ -168,7 +168,7 @@ export default function Home() {
         </div>
       </section>
       {/* 学歴セクション */}
-      <section id="education" className="w-[60%] mx-auto px-4 py-20">
+      <section id="education" className="w-[60%] mx-auto px-4 py-20 pt-32">
         <h3 className="text-2xl font-bold mb-8 text-center">Education</h3>
         <div className="bg-white rounded-2xl shadow-md p-6 border border-gray-200 w-full mb-6">
             <h4 className="text-lg font-semibold">Tohoku University</h4>
@@ -196,7 +196,7 @@ export default function Home() {
         </div>
 
         <div className="flex flex-col gap-6">
-          <div className="bg-white rounded-2xl shadow-md p-6 border border-gray-200 w-full mb-6">
+          <div className="bg-white rounded-2xl shadow-md p-6 border border-gray-200 w-full">
             <h4 className="text-lg font-semibold">Namiki Secondary School</h4>
             <p className="text-sm text-gray-600">General Course</p>
             <p className="text-sm text-gray-500 mt-2">Apr. 2014 – Mar. 2020</p>
