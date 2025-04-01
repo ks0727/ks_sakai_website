@@ -1,5 +1,5 @@
 # The portfolio of Kosuke Sakai
-![alt text](image.png)
+![alt text](/public/images/portfolio.png)
 
 2027年新卒として就職活動をするために自分のポートフォリオサイトを作成しました。
 
