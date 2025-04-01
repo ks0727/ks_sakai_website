@@ -5,37 +5,43 @@ export function NavLinks({ onClick }: { onClick?: () => void }) {
     return (
         <>
         <li>
-        <a href="#about" className={linkClass} onClick={onClick}>
+        <a href="/#about" className={linkClass} onClick={onClick}>
             About
             <span className={underlineClass}></span>
         </a>
         </li>
         <li>
-            <a href="#education" className={linkClass} onClick={onClick}>
+            <a href="/#education" className={linkClass} onClick={onClick}>
                 Education
                 <span className={underlineClass}></span>
             </a>
         </li>
         <li>
-            <a href="#awards" className={linkClass} onClick={onClick}>
+            <a href="/#awards" className={linkClass} onClick={onClick}>
                 Awards
                 <span className={underlineClass}></span>
             </a>
         </li>
         <li>
-            <a href="#skills" className={linkClass} onClick={onClick}>
+            <a href="/#skills" className={linkClass} onClick={onClick}>
                 Skills
                 <span className={underlineClass}></span>
             </a>
         </li>
         <li>
-            <a href="#works" className={linkClass} onClick={onClick}>
+            <a href="/#certificate" className={linkClass} onClick={onClick}>
+                Certificate
+                <span className={underlineClass}></span>
+            </a>
+        </li>
+        <li>
+            <a href="/#works" className={linkClass} onClick={onClick}>
                 Works
                 <span className={underlineClass}></span>
             </a>
         </li>
         <li>
-            <a href="#contact" className={linkClass} onClick={onClick}>
+            <a href="/#contact" className={linkClass} onClick={onClick}>
             Contact
             <span className={underlineClass}></span>
             </a>

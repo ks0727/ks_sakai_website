@@ -5,10 +5,10 @@ export function AboutMe(){
         <section id="about" className="w-[60%] mx-auto px-4 py-20 pt-32">
         <h3 className="text-2xl font-bold mb-8 text-center">About Me</h3>
 
-        <div className="flex flex-col md:flex-row items-center md:items-start space-y-8 md:space-y-0 md:space-x-12 text-left">
+        <div className="flex flex-col md:flex-row items-center md:justify-center space-y-8 md:space-y-0 md:space-x-12 text-left mx-auto">
         {/* 丸い写真 */}
         <img
-            src="/my-photo.jpg"
+            src="/images/my_photo.png"
             className="w-40 h-40 rounded-full object-cover shadow-md"
         />
 

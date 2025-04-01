@@ -7,6 +7,9 @@ import { Welcome } from "./components/Welcome";
 import { AboutMe } from "./components/AboutMe";
 import { Education } from "./components/Education";
 import { Awards } from "./components/Awards";
+import { Certificate } from "./components/Certificate";
+import { Works } from "./components/Works";
+import { Contact } from "./components/Contact";
 
 export default function Home() {
   return (
@@ -18,6 +21,9 @@ export default function Home() {
       <Education />
       <Awards />
       <Skills />
+      <Certificate />
+      <Works />
+      <Contact />
       </main>
       <Footer />
     </div>
