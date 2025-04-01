@@ -1,4 +1,4 @@
-# The portfolio of Kosuke Sakai! <img src="/image-1.png" width=40/>
+# <img src="/image-1.png" width=40/> The portfolio of Kosuke Sakai! 
 ![alt text](/public/images/portfolio.png)
 
 2027年新卒として就職活動をするために自分のポートフォリオサイトを作成しました。
