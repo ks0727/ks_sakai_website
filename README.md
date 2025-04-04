@@ -1,4 +1,4 @@
-# <img src="/image-1.png" width=40/> The portfolio of Kosuke Sakai! 
+# <img src="/image-1.png" width=40/> The portfolio of Kosuke Sakai! (https://ksakai-portfolio.me/)
 
 
 https://github.com/user-attachments/assets/f1158035-538d-4099-81fe-8b5dbc0cab34
