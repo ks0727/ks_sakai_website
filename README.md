@@ -1,9 +1,33 @@
 # <img src="/image-1.png" width=40/> The portfolio of Kosuke Sakai! 
-![alt text](/public/images/portfolio.png)
 
+
+https://github.com/user-attachments/assets/f1158035-538d-4099-81fe-8b5dbc0cab34
+
+
+## 概要
 2027年新卒として就職活動をするために自分のポートフォリオサイトを作成しました。
+
+AWS EC2を利用してホスティングし、ページを公開中です！ URL : https://ksakai-portfolio.me/
 
 自己紹介や、今まで取得したスキル, 受賞歴, 資格などを確認することができます。
 
 NEXT.jsの練習として、動的でスタイリッシュなサイトを作成することを心がけました！
+
+## 使用技術
+- Next.js
+- TypeScript
+- TailwindCSS
+- AWS EC2 (Ubuntu)
+- nginx
+- Let's encript
+
+## 学んだこと
+- NEXT.jsを使ったWebサイトの作成
+- TypeScriptの書き方 (React)
+- AWSを用いたページのホスティング
+- ドメインの取得
+- https化
+
+
+
 
