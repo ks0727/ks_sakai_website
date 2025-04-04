@@ -13,6 +13,9 @@ AWS EC2を利用してホスティングし、ページを公開中です！ URL
 
 NEXT.jsの練習として、動的でスタイリッシュなサイトを作成することを心がけました！
 
+![ksakai-portfolio me_](https://github.com/user-attachments/assets/ef2699d9-157a-4924-94fe-322c3b42a68c)
+
+
 ## 使用技術
 - Next.js
 - TypeScript
@@ -23,6 +26,7 @@ NEXT.jsの練習として、動的でスタイリッシュなサイトを作成�
 
 ## 学んだこと
 - NEXT.jsを使ったWebサイトの作成
+- レスポンシブ対応 (ハンバーガーメニュー)
 - TypeScriptの書き方 (React)
 - AWSを用いたページのホスティング
 - ドメインの取得
